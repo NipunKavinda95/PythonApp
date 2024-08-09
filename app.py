@@ -53,7 +53,7 @@ def index():
         traverse_list(gpu_list, gpu)
 
         pred_value = prediction(feature_list)
-        pred_value = np.round(pred_value[0],2)*305
+        pred_value = np.round(pred_value[0])*305
 
         print(pred_value)
 
