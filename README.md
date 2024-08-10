@@ -1,2 +1,2 @@
-# PythonApp
-Python Apps
+# LaptopPricePredictor
+Laptop Price Predictor
